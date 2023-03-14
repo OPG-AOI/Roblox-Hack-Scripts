@@ -1,0 +1,1 @@
+None of these scripts are made by me. It is just here so you and me can access them.
