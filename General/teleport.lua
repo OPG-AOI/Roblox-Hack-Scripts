@@ -12,7 +12,7 @@ Frame.BorderColor3 = Color3.new(0.67451, 0.211765, 0.152941)
 Frame.Position = UDim2.new(0.9,0.5,0.3)
 Frame.Size = UDim2.new(0.07,0.1,0.1)
 Frame.Active = true
-Frame.Draggable = false
+Frame.Draggable = true
 
 TextBox.Parent = Frame
 TextBox.BackgroundColor3 = Color3.new(5,5,5)
@@ -21,7 +21,7 @@ TextBox.Position = UDim2.new(0.103524067, 0, 0.200333327, 0)
 TextBox.Size = UDim2.new(0.8,0.9,0.6)
 TextBox.Font = Enum.Font.SourceSansLight
 TextBox.FontSize = Enum.FontSize.Size14
-TextBox.Text = "Name"
+TextBox.Text = "Username"
 TextBox.TextScaled = true
 TextBox.TextSize = 8
 TextBox.TextWrapped = true
